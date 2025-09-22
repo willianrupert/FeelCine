@@ -343,7 +343,7 @@ const App = () => {
           
           <header className="header">
             <h1 className="header-title">
-              PsicoCine
+              CineMood
             </h1>
             <p className="header-subtitle">
               Descreva seu estado de espírito, e eu prescreverei o filme perfeito.
