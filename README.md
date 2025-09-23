@@ -1,8 +1,8 @@
-# FeelCine
+# CineMind
 
 ## Visão Geral do Projeto
 
-O **FeelCine** é uma plataforma inovadora que combina a empatia de um psicólogo com a paixão de um cinéfilo. Nosso objetivo é transformar a busca por filmes em uma "terapia cinematográfica" – uma experiência interativa e curativa. Utilizando inteligência artificial, o aplicativo vai além das recomendações tradicionais por gênero. Ele analisa o estado emocional e os gostos do usuário para prescrever "experiências cinematográficas" que ressoam com seus sentimentos, oferecendo entretenimento, conforto ou reflexão.
+O **CineMind** (CIn-eMind) é uma plataforma inovadora que combina a empatia de um psicólogo com a paixão de um cinéfilo. Nosso objetivo é transformar a busca por filmes em uma "terapia cinematográfica" – uma experiência interativa e curativa. Utilizando inteligência artificial, o aplicativo vai além das recomendações tradicionais por gênero. Ele analisa o estado emocional e os gostos do usuário para prescrever "experiências cinematográficas" que ressoam com seus sentimentos, oferecendo entretenimento, conforto ou reflexão.
 
 Nossa missão é criar uma conexão mais profunda entre o espectador e o cinema, focando em como um filme pode impactar e ressoar com os sentimentos de quem o assiste, tornando cada sessão uma jornada de autoconhecimento.
 
@@ -18,7 +18,7 @@ Nossa missão é criar uma conexão mais profunda entre o espectador e o cinema,
 
 ## Tecnologias
 
-O **FeelCine** foi construído com as seguintes tecnologias:
+O **CineMind** foi construído com as seguintes tecnologias:
 
 * **Frontend**: React
 
@@ -50,12 +50,12 @@ Para rodar o projeto localmente, siga estes passos (necessário ter o Node.js e 
 
 1. **Clone o repositório:**
 
-git clone https://github.com/willianrupert/FeelCine.git
+git clone https://github.com/willianrupert/CineMind.git
 
 
 2. **Navegue até o diretório do projeto:**
 
-cd FeelCine
+cd CineMind
 
 
 3. **Instale as dependências:**
@@ -80,7 +80,7 @@ O aplicativo estará disponível em `http://localhost:3000`.
 
 * **Site Oficial**: [cin-emind.vercel.app](https://www.cin-emind.vercel.app/)
 
-* **Repositório no GitHub**: <https://github.com/willianrupert/FeelCine>
+* **Repositório no GitHub**: <https://github.com/willianrupert/CineMind>
 
 * **Documentação (Google Docs)**:
 
