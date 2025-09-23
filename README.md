@@ -30,17 +30,23 @@ O **FeelCine** foi construído com as seguintes tecnologias:
 
 ## Integrantes
 
-* Nome do Integrante 1
+* Willian Rupert
 
-* Nome do Integrante 2
+* Matheus Vieira
 
-* Nome do Integrante 3
+* Mikael Sobral
 
-* Nome do Integrante 4
+* Luan Gustavo
+  
+* Felipe de Aquino
+
+* Jonas Manoel
+
+* Eduardo Almeida
 
 ## Como Iniciar o Projeto (Ambiente Local)
 
-Para rodar o projeto localmente, siga estes passos:
+Para rodar o projeto localmente, siga estes passos (necessário ter o Node.js e o VSCode instalados no computador):
 
 1. **Clone o repositório:**
 
@@ -72,7 +78,7 @@ O aplicativo estará disponível em `http://localhost:3000`.
 
 ## Links do Projeto
 
-* **Site Oficial**: [cin-emind.vercel.app](https://www.google.com/search?q=https://cin-emind.vercel.app/)
+* **Site Oficial**: [cin-emind.vercel.app](https://www.cin-emind.vercel.app/)
 
 * **Repositório no GitHub**: <https://github.com/willianrupert/FeelCine>
 
